@@ -1,4 +1,4 @@
-###Hello! I am Gabriell Primer
+### Hello! I am Gabriell Primer
 Gmail:gabriellprimer@gmail.com
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabriellprimer)
@@ -8,7 +8,7 @@ Gmail:gabriellprimer@gmail.com
 
 ![gabrielprimer GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielprimer&show_icons=true&theme=dracula)
 
-##Technologies I use in my day
+## Technologies I use in my day
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
